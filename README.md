@@ -3,7 +3,7 @@
 A side project that i have working on for a while which is an  expense tracking application with data visualization - developed using React, Node, Express, MongoDB and Victory while designed using Material UI.
 
 
-### ("INSTALLATION")
+**INSTALLATION**
 
 #### What you need to run this code
 1. Node (13.12.0)
@@ -18,11 +18,3 @@ A side project that i have working on for a while which is an  expense tracking 
    - To run the application for development, run ```  npm run development  ``` or ``` yarn development ```
 4. Open [localhost:3000](http://localhost:3000/) in the browser
 ----
-
-:shipit:
-
-:wink:
-
-
-**bold text **
-![](name-of-giphy.gif)
