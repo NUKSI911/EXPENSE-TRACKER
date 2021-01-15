@@ -1,9 +1,9 @@
 # Expense Tracker
 
-An expense tracking application with data visualization - developed using React, Node, Express, MongoDB and Victory.
+A side project that i have working on for a while which is an  expense tracking application with data visualization - developed using React, Node, Express, MongoDB and Victory while designed using Material UI.
 
 
-### ("MERN Expense Tracker")
+### ("INSTALLATION")
 
 #### What you need to run this code
 1. Node (13.12.0)
